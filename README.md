@@ -9,13 +9,15 @@ WebAudio Hack Day is a day long event part of DevFest.Asia 2015. The idea is to 
 
 The event is suited for advanced Web Audio hackers and Web Audio beginners. We will provide learning materials and help for people that are curious to learn more about the Web Audio API as well!
 
+Inspired by [WebAudio Hack Day at JSConfEU](http://janmonschke.com/blog/2014/10/03/web-audio-hackday-2014.html)
+
 ## Details
 
-Time : 11am-8pm
+**Time:** 11am-8pm
 
-Venue: SkyScanner Office, 39 Robinson Road #08-01 Robinson Point Singapore 068911
+**Venue:** SkyScanner Office, 39 Robinson Road #08-01 Robinson Point Singapore 068911
 
-Tickets: http://2015.devfest.asia/#Sat21
+**Tickets:** http://2015.devfest.asia/#Sat21
 
 ### Format
 We'll have a couple of talks at the beginning from @padenot and @mmckegg to introduce WebAudio. Then we can form small groups (2-3 each) and work on any hack/project/app we are interested in. At the end of the day we can demo our hack/project/app to everyone. We'll all vote for the best hack/project/app and that group will get a prize. :)
@@ -23,19 +25,21 @@ We'll have a couple of talks at the beginning from @padenot and @mmckegg to intr
 ### Schedule
 
 11:00 : Registration
+
 11:15 : Talk 1 (20-30mins)
+
 11:45 : Talk 2 (20-30mins)
+
 12:15 : Introductions + Ideas
+
 13:00 : Lunch
+
 19:00 : Demos
+
 20:00 : Dinner
+
 20:30 : Performance
 
-### Rules
-To qualify for the prize:
-
-1. your hack/project/app should have either WebAudio/WebMIDI as a main component.
-2. most of the work on your hack/project/app should have been doing during the WebAudio Hack Day.
 
 ### ToBring
 
@@ -45,18 +49,27 @@ To qualify for the prize:
 4. MIDI Controllers (optional)
 5. Any other hardware you want to try to connect to the browser (optional).
 
+### Rules
+To qualify for the prize:
+
+- your hack/project/app should have either WebAudio/WebMIDI as a main component.
+- most of the work on your hack/project/app should have been doing during the WebAudio Hack Day.
+
 ## Resources
 
 ### Specs
 [WebAudio Spec](https://webaudio.github.io/web-audio-api/)
+
 [WebMIDI Spec](http://webaudio.github.io/web-midi-api)
 
 ### Libraries, Links, etc
 [WebAudio Awesome](https://github.com/notthetup/awesome-webaudio)
+
 [WebAudio Weekly](http://blog.chrislowis.co.uk/waw.html)
 
 ### Demos, apps
 [WebAudio Demos](https://webaudiodemos.appspot.com/)
+
 [MOAR WebAudio Demos](https://webaudio.github.io/demo-list/)
  
 ## Code Of Conduct
@@ -64,7 +77,9 @@ To qualify for the prize:
 
 ## Thanks!
 [DevFest.Asia](http://devfest.asia/)
+
 [SkyScanner](http://www.skyscanner.com.sg/)
+
 [Sonoport](http://sonoport.com/)
 
 
