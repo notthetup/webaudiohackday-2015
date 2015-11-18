@@ -12,7 +12,9 @@ The event is suited for advanced Web Audio hackers and Web Audio beginners. We w
 ## Details
 
 Time : 11am-8pm
+
 Venue: SkyScanner Office, 39 Robinson Road #08-01 Robinson Point Singapore 068911
+
 Tickets: http://2015.devfest.asia/#Sat21
 
 ### Format
