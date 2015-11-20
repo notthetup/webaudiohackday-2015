@@ -1,7 +1,7 @@
 # WebAudio Hack Day
 WebAudio Hack Day at DevFest.Asia 2015
 
-![webaudio](webaudio-js.png)
+![webaudio](webaudio-js.png) ![webmidi](webmidi-js.png)
 
 ## What?
 
