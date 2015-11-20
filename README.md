@@ -19,6 +19,10 @@ Inspired by [WebAudio Hack Day at JSConfEU](http://janmonschke.com/blog/2014/10/
 
 **Tickets:** http://2015.devfest.asia/#Sat21
 
+### Discussions
+
+Join the chat for more discussions and links [https://gitter.im/devfestasia/discussions](https://gitter.im/devfestasia/discussions)
+
 ### Format
 We'll have a couple of talks at the beginning from @padenot and @mmckegg to introduce WebAudio. Then we can form small groups (2-3 each) and work on any hack/project/app we are interested in. At the end of the day we can demo our hack/project/app to everyone. We'll all vote for the best hack/project/app and that group will get a prize. :)
 
