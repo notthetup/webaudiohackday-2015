@@ -7,6 +7,7 @@ WebAudio Hack Day at DevFest.Asia 2015
 
 - [Korg NanoKontrol support for JSM Player](https://github.com/sonoport/jsmplayer) - [Chinmay](https://github.com/notthetup/)
 - [LineOut.js](https://github.com/nbiton/LineOut) - [Tan Shiaw Uen](https://github.com/shiawuen) and [Naor Biton](https://github.com/nbiton)
+- - [Blind Game](https://github.com/mgajda/blindgame) - [Michał J. Gajda](https://github.com/mgajda) and [Siah](https://github.com/hydrospell)
 
 ## What?
 
