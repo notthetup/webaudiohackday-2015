@@ -3,6 +3,11 @@ WebAudio Hack Day at DevFest.Asia 2015
 
 ![webaudio](webaudio-js.png) ![webmidi](webmidi-js.png)
 
+## Projects
+
+- [Korg NanoKontrol support for JSM Player](https://github.com/sonoport/jsmplayer) - [Chinmay](https://github.com/notthetup/)
+- [LineOut.js](https://github.com/nbiton/LineOut) - [Tan Shiaw Uen](https://github.com/shiawuen) and [Naor Biton](https://github.com/nbiton)
+
 ## What?
 
 WebAudio Hack Day is a day long event part of DevFest.Asia 2015. The idea is to hack on WebAudio and create hacks, libraries, demos, musical instruments, apps based on WebAudio and WebMIDI. 
