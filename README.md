@@ -8,10 +8,13 @@ WebAudio Hack Day at DevFest.Asia 2015
 - [Korg NanoKontrol support for JSM Player](https://github.com/sonoport/jsmplayer) - [Chinmay](https://github.com/notthetup/)
 - [LineOut.js](https://github.com/nbiton/LineOut) - [Tan Shiaw Uen](https://github.com/shiawuen) and [Naor Biton](https://github.com/nbiton)
 - [Blind Game](https://github.com/mgajda/blindgame) - [Michał J. Gajda](https://github.com/mgajda) and [Siah](https://github.com/hydrospell)
+- [Turn Something](https://github.com/zz85/turn-something) - [Joshua Koo](https://github.com/zz85/)
+- [Fluid Synth Emscripten](https://github.com/zz85/fluidsynth-emscripten) - [Joshua Koo](https://github.com/zz85/)
+- [Markov Music](https://github.com/pm5/markovmusic) - [Pomin Wu](https://github.com/pm5)
 
 ## What?
 
-WebAudio Hack Day is a day long event part of DevFest.Asia 2015. The idea is to hack on WebAudio and create hacks, libraries, demos, musical instruments, apps based on WebAudio and WebMIDI. 
+WebAudio Hack Day is a day long event part of DevFest.Asia 2015. The idea is to hack on WebAudio and create hacks, libraries, demos, musical instruments, apps based on WebAudio and WebMIDI.
 
 The event is suited for advanced Web Audio hackers and Web Audio beginners. We will provide learning materials and help for people that are curious to learn more about the Web Audio API as well!
 
@@ -81,7 +84,7 @@ To qualify for the prize:
 [WebAudio Demos](https://webaudiodemos.appspot.com/)
 
 [MOAR WebAudio Demos](https://webaudio.github.io/demo-list/)
- 
+
 ## Code Of Conduct
 [DevFest Code of Conduct](http://2015.devfest.asia/code-of-conduct.html)
 
@@ -91,6 +94,3 @@ To qualify for the prize:
 [SkyScanner](http://www.skyscanner.com.sg/)
 
 [Sonoport](http://sonoport.com/)
-
-
-
